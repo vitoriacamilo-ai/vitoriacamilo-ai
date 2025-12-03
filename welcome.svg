@@ -28,7 +28,7 @@
       values="80,66;80,74;80,66" dur="3s" repeatCount="indefinite"/>
   </g>
 
-  <text x="260" y="75" font-size="40">
+  <text x="190" y="75" font-size="40">
     Bem-vindo ao meu perfil ✨
     <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
   </text>
