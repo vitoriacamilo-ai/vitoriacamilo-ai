@@ -129,12 +129,3 @@
 
 <div align="center">
 
-### 🌸 Obrigada por visitar meu perfil! 🌷  
-<strong style="color:#e889c3;">“Mulheres na ciência não esperam permissão — elas constroem, lideram e florescem.”</strong>  
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Ellesec/cute-dividers/main/divider-hearts-pink.png" width="60%">
-</div>
-
