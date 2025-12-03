@@ -3,7 +3,8 @@
   
   <br><br>
 
-  <h1 style="color:#e889c3; font-weight: bold;">🌸 Vitória Camilo — Ela/Dela 🌸</h1>
+  <h1 style="color:#e889c3; font-weight: bold;">🌸 Vitória Camilo 
+     (Ela/Dela) 🌸</h1>
   <p><strong style="color:#e889c3;">Doutoranda em Bioquímica & Biologia Molecular • IA • Machine Learning • Ciência de Dados • Bioinformática</strong></p>
 
   <!-- Badges fofinhos -->
@@ -29,9 +30,8 @@
 - 🎮 Apaixonada por **jogos**, **natureza**, **música (aprendendo bateria)**, **animais**, **Hello Kitty** e por tudo que deixa a vida mais leve  
 - 🌈 Participante da trilha de desenvolvimento no **HackaPride**
 
----
+───────── ❁ ────────────────── ❁ ────────────────── ❁ ────────────────── ❁ ──────────────────
 
-<div align="center"><img src="https://raw.githubusercontent.com/Ellesec/cute-dividers/main/divider-ribbon-pink.png" width="80%"></div>
 
 ## 🌼 Áreas de Especialização
 - 🌸 **IA e Machine Learning aplicados à saúde**  
@@ -41,9 +41,8 @@
 - 🌸 **Estatística aplicada à pesquisa científica**  
 - 🌸 **Biotecnologia e análises computacionais**  
 
----
+───────── ❁ ────────────────── ❁ ────────────────── ❁ ────────────────── ❁ ──────────────────
 
-<div align="center"><img src="https://raw.githubusercontent.com/Ellesec/cute-dividers/main/divider-hearts-pink.png" width="80%"></div>
 
 ## 💻 Tecnologia
 - Programação aplicada à ciência  
@@ -52,7 +51,7 @@
 - Aplicações de IA/ML para dados biológicos  
 - Ferramentas computacionais para saúde  
 
----
+───────── ❁ ────────────────── ❁ ────────────────── ❁ ────────────────── ❁ ──────────────────
 
 ## 📊 Ciência de Dados
 - Análise exploratória  
@@ -61,7 +60,7 @@
 - Machine Learning (aprendizado contínuo)  
 - Extração e limpeza de dados biomédicos  
 
----
+───────── ❁ ────────────────── ❁ ────────────────── ❁ ────────────────── ❁ ──────────────────
 
 ## 🧬 Bioinformática
 - Modelagem molecular e 3D  
@@ -69,19 +68,6 @@
 - Manipulação de bancos biológicos  
 - Alinhamento de sequências  
 - BioPython (em progresso)  
-
----
-
-<div align="center"><img src="https://raw.githubusercontent.com/Ellesec/cute-dividers/main/divider-flower-pink.png" width="80%"></div>
-
-# 💡 Hard Skills 
-### 🖥️ Programação & Dados
-- Python (Pandas, Numpy, Sklearn, Matplotlib)  
-- R para análise estatística  
-- SQL  
-- Power BI  
-- Git & GitHub  
-- Google Colab / Jupyter  
 
 ### 🔬 Bioinformática
 - Docking molecular  
@@ -94,7 +80,7 @@
 - Documentação científica  
 - Visualização científica elegante  
 
----
+───────── ❁ ────────────────── ❁ ────────────────── ❁ ────────────────── ❁ ──────────────────
 
 # 🌟 Soft Skills
 - Comunicação clara  
@@ -103,11 +89,19 @@
 - Proatividade  
 - Criatividade  
 - Trabalho colaborativo  
-- Aprendizado rápido  
+- Aprendizado rápido
+  
+  # 💡 Hard Skills 
+### 🖥️ Programação & Dados
+- Python (Pandas, Numpy, Sklearn, Matplotlib)  
+- R para análise estatística  
+- SQL  
+- Power BI  
+- Git & GitHub  
+- Google Colab / Jupyter
 
----
+───────── ❁ ────────────────── ❁ ────────────────── ❁ ────────────────── ❁ ──────────────────
 
-<div align="center"><img src="https://raw.githubusercontent.com/Ellesec/cute-dividers/main/divider-clouds-pink.png" width="80%"></div>
 
 ## 🌸 Projetos em construção
 - 🧬 Scripts para análise de sequências  
@@ -117,15 +111,16 @@
 - 📊 Dashboards biomédicos  
 - 🌿 Projetos educacionais em bioinformática  
 
----
 
-<div align="center"><img src="https://raw.githubusercontent.com/Ellesec/cute-dividers/main/divider-ribbon-pink.png" width="80%"></div>
+
+✦••┈┈••✦••┈┈••✦✦••┈┈••✦••┈┈••✦✦••┈┈••✦••┈┈••✦✦••┈┈••✦••┈┈••✦✦••┈┈••✦••┈┈••✦✦••┈┈••✦••┈┈••✦
+
 
 ## 🌿 Vamos nos conectar?
 🌸 **Email profissional:** vitoria.camilo@ufpe.br  
 🌸 **LinkedIn:** https://www.linkedin.com/in/vitoria-camilo-b538a0226/
 
----
 
+✦••┈┈••✦••┈┈••✦✦••┈┈••✦••┈┈••✦✦••┈┈••✦••┈┈••✦✦••┈┈••✦••┈┈••✦✦••┈┈••✦••┈┈••✦✦••┈┈••✦••┈┈••✦
 <div align="center">
 
