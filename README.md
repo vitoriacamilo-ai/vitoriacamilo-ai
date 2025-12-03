@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/💻_tecnologia-FF9ECD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🧬_bioinformática-F7A8C7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🤖_IA_&_ML-F5C6EC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌷_saúde_e_biologia-FAD1E8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌷_saúde-FAD1E8?style=for-the-badge" />
 </div>
 
 ---
