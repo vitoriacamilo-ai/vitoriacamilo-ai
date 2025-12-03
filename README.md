@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="welcome.svg" width="70%" alt="Bem-vinda ao meu perfil" />
+  <img src="welcome(1).svg" width="70%" alt="Bem-vinda ao meu perfil" />
   
   <br><br>
 
