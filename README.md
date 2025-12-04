@@ -111,7 +111,7 @@
 
 
 
-••✦•<img src="./notebook.svg" width="40">┈••✦✦••┈<img src="./notebook.svg" width="40">┈••✦••┈<img src="./notebook.svg" width="40">••┈••✦••┈<img src="./notebook.svg" width="40">┈••✦✦••┈<img src="./notebook.svg" width="40">┈••✦••┈┈<img src="./notebook.svg" width="40">┈••✦••┈┈<img src="./notebook.svg" width="40">┈••✦
+••✦•<img src="./notebook.svg" width="40">┈••✦✦••┈<img src="./notebook.svg" width="40">┈••✦••┈<img src="./notebook.svg" width="40">••┈••✦••┈<img src="./notebook.svg" width="40">┈••✦✦••┈<img src="./notebook.svg" width="40">┈••✦••┈┈<img src="./notebook.svg" width="40">┈••✦••┈┈<img src="./notebook.svg" width="40">┈••✦••┈<img src="./notebook.svg" width="40">┈••✦✦•
             
 
 ## 🌿 Vamos nos conectar?
