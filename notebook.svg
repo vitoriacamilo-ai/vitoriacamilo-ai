@@ -1,12 +1,22 @@
-<svg width="40" height="40" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
 <style>
 @keyframes glow {
   0% { filter: drop-shadow(0 0 0px #ffb3d9); }
-  100% { filter: drop-shadow(0 0 6px #ff87c9); }
+  100% { filter: drop-shadow(0 0 10px #ff87c9); }
 }
-svg { animation: glow 1.8s infinite alternate; }
+svg { animation: glow 2s infinite alternate; }
 </style>
-<rect x="3" y="4" width="18" height="12" rx="2" fill="#ffffff" stroke="#ff7abf" stroke-width="1.5"/>
-<rect x="5" y="6" width="14" height="8" fill="#ffe6f4"/>
-<rect x="2" y="17" width="20" height="2" rx="1" fill="#ffb6e8"/>
+
+<!-- Corpo do notebook -->
+<rect x="30" y="40" width="140" height="90" rx="10" fill="#ffffff" stroke="#ff7abf" stroke-width="4"/>
+
+<!-- Tela -->
+<rect x="45" y="55" width="110" height="60" rx="8" fill="#ffe6f4"/>
+
+<!-- Base -->
+<rect x="20" y="135" width="160" height="20" rx="10" fill="#ffb6e8"/>
+
+<!-- Detalhe inferior -->
+<rect x="40" y="155" width="120" height="8" rx="4" fill="#ff8ac9"/>
+
 </svg>
