@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/🌷_saúde-FAD1E8?style=for-the-badge" />
 </div>
 
----
+---                                                                         
 
 <p align="center">🌸 ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ Abaixo está um pouquinho de mim e do que eu construo ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ 🌸</p>
 
