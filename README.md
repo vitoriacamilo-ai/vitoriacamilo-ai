@@ -8,7 +8,7 @@
   <p><strong style="color:#e889c3;">Doutoranda em Bioquímica & Biologia Molecular • IA • Machine Learning • Ciência de Dados • Bioinformática</strong></p>
 
   <!-- Badges fofinhos -->
-  <img src="https://img.shields.io/badge/✨_rosa_&_cottagecore-FFC7E6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/✨_python-FFC7E6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/💻_tecnologia-FF9ECD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🧬_bioinformática-F7A8C7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🤖_IA_&_ML-F5C6EC?style=for-the-badge" />
