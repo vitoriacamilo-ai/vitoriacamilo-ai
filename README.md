@@ -26,7 +26,7 @@
 - 🧬 **Doutoranda em Bioquímica e Biologia Molecular**  
 - 💻 Focada em **Tecnologia**, **Bioinformática**, **Machine Learning**, **IA** e **Ciência de Dados aplicados à saúde**  
 - 🔬 Interesse especial em **modelagem 3D de moléculas** e aplicações computacionais em saúde e biotecnologia  
-- 🌿 Aesthetic rosa + cottagecore combinada com uma identidade técnica e científica  
+- 🌿 identidade técnica e científica  
 - 🎮 Apaixonada por **jogos**, **natureza**, **música (aprendendo bateria)**, **animais**, **Hello Kitty** e por tudo que deixa a vida mais leve  
 - 🌈 Participante da trilha de desenvolvimento no **HackaPride**
 
